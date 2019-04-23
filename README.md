@@ -1,4 +1,6 @@
 # Serilog.Sinks.Mailtrap
+[![Build status](https://ci.appveyor.com/api/projects/status/9e51n7xqe96ikt24?svg=true)](https://ci.appveyor.com/project/totpero/serilog-sinks-mailtrap)
+
 A Serilog sink that writes events to fake SMTP email https://mailtrap.io/
 
 ```csharp
